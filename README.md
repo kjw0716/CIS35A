@@ -2,6 +2,9 @@
 
 Java coursework from De Anza College, covering object modeling, encapsulation, inheritance, polymorphism, file I/O, exceptions, serialization, and interfaces. Each assignment is a separate console program or set of exercises.
 
+[![Java](https://img.shields.io/badge/Java-JDK%2023-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#requirements)
+[![Topics](https://img.shields.io/badge/topics-OOP%20%C2%B7%20file%20I%2FO%20%C2%B7%20serialization-555?style=flat-square)](#assignment-guide)
+
 ## Course context
 
 De Anza's CIS 35A introduces Java control flow, classes and objects, inheritance, interfaces, packages, data structures, file handling, and exceptions. The assignments here put these ideas into practice with genome models, savings accounts, ships, and student-score analysis.
